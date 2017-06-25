@@ -1,0 +1,23 @@
+{
+  "name": "uid-pin-dynamo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "claudia create --region us-east-1 --api-module app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aniketchopade/uid-pin-dynamo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aniketchopade/uid-pin-dynamo/issues"
+  },
+  "homepage": "https://github.com/aniketchopade/uid-pin-dynamo#readme",
+  "dependencies": {
+    "claudia-api-builder": "^2.5.1"
+  }
+}
