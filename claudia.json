@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "uid-pin-dynamo-executor",
+    "name": "uid-pin-dynamo",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "d0fhzfe5p6",
+    "module": "app"
+  }
+}
